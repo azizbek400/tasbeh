@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contaier { 
+  max-width: 100%;
+  height: 740px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://islam.plus/sites/default/files/fatwa/2020/hafith_0.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  margin-left: 31%;
+  padding-top: 6%;
+}
+
+.count {
+  margin-left: 59%;
+  padding-top: 120px;
+  font-size: 50px;
+}
+
+.count-container {
+  max-width: 50%;
+  height: 500px;
+  background-image: url("https://play-lh.googleusercontent.com/y_HG0ZCDOXe_-8B5gZPD_sgEw8RTbNpAEAJfopJCHBX-AJB45jocXT0yUhXd09JZaw");
+  border-radius: 20px;
+}
+
+.btn {
+  width: 252px;
+  height: 35px;
+  background-color: rgb(8, 200, 8);
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  border-radius: 15px;
+  margin-top: 3%;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(4, 255, 4);
+  font-size: 16px;
+}
+
+.btn-2 {
+  width: 252px;
+  height: 35px;
+  background-color: rgb(196, 14, 14);
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  margin-top: 3%;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.btn-2:hover {
+  background-color: rgb(255, 0, 0);
+  font-size: 16px;
+}
+
+.styl-btn {
+  display: flex;
+  gap: 1%;
+}
